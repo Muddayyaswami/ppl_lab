@@ -2,8 +2,5 @@
 
 Mis no.:111903047
 
-<b>List of experiments</b>
+<b>List of experiments</b>: Hello World
 
-1)hello.c
-
-2)details.md
